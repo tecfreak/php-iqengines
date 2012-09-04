@@ -5,7 +5,6 @@
     // Url to the IQEngines Query api
 	$url = "http://api.iqengines.com/v1.2/query/";
 	
-	
 	// API variables
 	$api_key = '<API_KEY>';
     $api_secret = '<API_SECRET>';
